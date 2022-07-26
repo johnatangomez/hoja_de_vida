@@ -1,8 +1,7 @@
 {
-  "name": "nekerafa.github.io",
+  "name": "hojavida",
   "version": "0.1.0",
-  "private": false,
-  "homepage": "https://nekerafa.github.io",
+  "private": true,
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "@material-ui/lab": "^4.0.0-alpha.56",
