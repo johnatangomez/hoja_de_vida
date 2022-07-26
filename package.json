@@ -1,7 +1,7 @@
 {
   "name": "nekerafa.github.io",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "homepage": "https://nekerafa.github.io",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
