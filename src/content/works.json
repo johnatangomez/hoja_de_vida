@@ -1,0 +1,42 @@
+[
+    {
+        "business": "SIATA",
+        "icon": "images/siata.png",
+        "color": "#9dd3ff",
+        "work": "fullstack",
+        "contract": "contrato",
+        "date": {
+            "from": {
+                "month": "september",
+                "year": 2020
+            }
+        },
+        "skills": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ]
+    },
+    {
+        "business": "Emtelco BPO",
+        "icon": "images/emtelco.jpeg",
+        "color": "#9dd3ff",
+        "work": "Formador - Coordinador de zona",
+        "contract": "2017-2020/Septiembre",
+        "date": {
+            "from": {
+                "month": "may",
+                "year": 2017
+            },
+            "to": {
+                "month": "september",
+                "year": 2020
+            }
+        },
+        "skills": [
+            "atencion",
+            "programacion"
+        ]
+    }
+]

@@ -1,0 +1,27 @@
+[
+    {
+        "institution": "Universidad de Antioquia",
+        "icon": "images/udea.png",
+        "color": "#ffffff",
+        "study": "muei",
+        "date": {
+            "from": {
+                "year": 2022
+            }
+        }
+    },
+    {
+        "institution": "I.E Antonio Derka - Santo Domingo",
+        "icon": "images/grados.png",
+        "color": "#ffffff",
+        "study": "gei",
+        "date": {
+            "from": {
+                "year": 2008
+            },
+            "to": {
+                "year": 2013
+            }
+        }
+    }
+]

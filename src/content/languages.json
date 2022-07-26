@@ -1,0 +1,17 @@
+[
+    {
+        "activitie": "Ingles",
+        "color": "#ffffff",
+        "icon": "images/ingles.png"
+    },
+    {
+        "activitie": "Italian",
+        "color": "#ffffff",
+        "icon": "images/italia.png"
+    },
+    {
+        "activitie": "guitar",
+        "color": "#ffffff",
+        "icon": "images/guitarra.jpg"
+    }
+]

@@ -1,0 +1,17 @@
+[
+    {
+        "activitie": "Python",
+        "color": "#ffffff",
+        "icon": "images/python.png"
+    },
+    {
+        "activitie": "Django Rest-Framework",
+        "color": "#ffffff",
+        "icon": "images/dj.jpg"
+    },
+    {
+        "activitie": "MySQL y PostgreSQL",
+        "color": "#ffffff",
+        "icon": "images/db.png"
+    }
+]
